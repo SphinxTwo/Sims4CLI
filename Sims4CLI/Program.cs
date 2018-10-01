@@ -58,7 +58,7 @@ namespace Sims4CLI
 
             Console.WriteLine("Are there any zip files? Type Y or N");
             string option = Console.ReadLine();
-            if (option == "Y")
+            if (option == "Y" || option == "y")
             {
                 Console.WriteLine("Confirmed. Continue to next prompt.");
                 Console.Clear();
