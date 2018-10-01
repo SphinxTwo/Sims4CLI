@@ -1,0 +1,7 @@
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\Sims4CLI\Sims4CLI\bin\Debug\Sims4CLI.exe.config
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\Sims4CLI\Sims4CLI\bin\Debug\Sims4CLI.exe
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\Sims4CLI\Sims4CLI\bin\Debug\Sims4CLI.pdb
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\Sims4CLI\Sims4CLI\obj\Debug\Sims4CLI.csprojResolveAssemblyReference.cache
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\Sims4CLI\Sims4CLI\obj\Debug\Sims4CLI.csproj.CoreCompileInputs.cache
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\Sims4CLI\Sims4CLI\obj\Debug\Sims4CLI.exe
+C:\Users\KevinPham\Documents\Visual Studio 2017\Projects\Sims4CLI\Sims4CLI\obj\Debug\Sims4CLI.pdb
