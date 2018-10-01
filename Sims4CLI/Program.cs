@@ -103,7 +103,7 @@ namespace Sims4CLI
                 Console.Clear();
 
 
-                if (option == "N")
+                if (option == "N" || option == "n")
                 {
                     Console.Read();
                     Console.Clear();
