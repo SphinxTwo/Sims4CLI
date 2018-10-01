@@ -81,14 +81,6 @@ namespace Sims4CLI
                 Console.Clear();
                 Console.WriteLine("Unzipping Files now");
                 var UnZpi = "C:\\Users\\KevinPham\\Downloads\\unzip.exe";
-                //Process.Start(UnZpi + MyString3 + "*.zip " + " -d "+ MyString1);
-                //ProcessStartInfo info = new ProcessStartInfo(UnZpi + " " + MyString3 + "\\*.zip" + " -d " + MyString1);
-
-                //Process.Start(UnZpi + " " + MyString3 + "\\*.zip" + " -d " + MyString1);
-                //string zipextract;
-                //        zipextract = "/k e " + " " + MyString3 +  "-o" + MyString2;
-                //        Debug.WriteLine(@"C:\Program Files\7-Zip\7z.exe", zipextract);
-                //}
 
 
 
